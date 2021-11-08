@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dru
 - 👀 I’m interested in gaming pretty much
-- 🌱 I’m currently learning c++, java and python
+- 🌱 I’m currently learning C++ and JS
 - 💞️ I’m looking to collaborate on ...
 
 <!---
