@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=druuxd&label=Profile%20views&color=0e75b6&style=flat" alt="druuxd" /> </p>
 
+- 🏫 I'm currently studying Electrical Engineering and Computer Science at [Transilvania University](https://iesc.unitbv.ro/en/)
 
 - 🔭 I’m currently working on [Discord Bot](https://github.com/Druuxd/Discord-Bot)
 
