@@ -1,5 +1,5 @@
 ![64dbfb279110e5730b698a752532605b](https://github.com/Druuxd/Drudev/assets/87330391/7788e4db-a77b-4ff5-8874-a796f0e42874)
-<h1 align="center">👋🏼こんにちは, I'm Darius Andrei</h1>
+<h1 align="center">👋🏼こんにちは, I am Darius Andrei!</h1>
 <img align = "right" alt = "Coding" width = "400" src = "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"/>
 
 
