@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ftp.dru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ftp.dru" height="30" width="40" /></a>
+<a href="https://myanimelist.net/profile/Druxd" target="blank"><img align="center" src="https://www.svgrepo.com/show/331489/myanimelist.svg" alt="mal.druxd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/druxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="druxd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/druu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="druu" height="30" width="40" /></a>
 <a href="https://twitter.com/druylol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="druylol" height="30" width="40" /></a>
