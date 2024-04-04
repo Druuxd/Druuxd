@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python and Java**
 
-- 👨‍💻 All of my projects are available at [Drudev](https://druuxd.github.io/Drudev/index.html)
+- 👨‍💻 All of my projects are available at [Drudev](https://dariusandrei.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
