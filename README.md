@@ -7,7 +7,7 @@
 
 - 🏫 I'm currently studying Electrical Engineering and Computer Science at [Transilvania University](https://iesc.unitbv.ro/en/)
 
-- 🔭 I’m currently working on [Discord Bot](https://github.com/Druuxd/Discord-Bot)
+- 🔭 I’m currently working on [Zero Password](https://github.com/Druuxd/ZeroPassword)
 
 - 🌱 I’m currently learning **Python and Java**
 
